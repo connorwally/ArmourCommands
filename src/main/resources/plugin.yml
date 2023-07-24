@@ -1,0 +1,8 @@
+name: ValantisCORE
+version: '${project.version}'
+main: org.wally.valantiscore.ValantisCORE
+api-version: '1.20'
+prefix: ValCORE
+load: STARTUP
+authors: [Wally]
+description: The core plugin for Valantis server, connecting all plugins together.
